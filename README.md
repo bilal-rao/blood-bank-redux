@@ -1,4 +1,4 @@
-Saylani App
+Blood Bank App using Redux
 -------------
 `npm install`
 
